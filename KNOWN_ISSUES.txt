@@ -1,0 +1,4 @@
+- Les modes plein écran, résolutions et DPI autres que la session de validation ne sont pas tous validés.
+- Le Coach refuse volontairement les recommandations lorsque le profil ou les sorts sont incomplets.
+- Les fonctions inventaire, équipement, reconnaissance complète de sorts et téléguidage restent expérimentales.
+- La bêta n’est pas signée : SmartScreen/antivirus peut demander une vérification.
