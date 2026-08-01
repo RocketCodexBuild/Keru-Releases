@@ -1,0 +1,18 @@
+KERU 0.4.0 BETA 1
+
+Validé réellement
+- Lancement autonome onedir, verrou d’instance unique, fenêtre compacte.
+- Capture Dofus, F8/F10, lecture des quêtes.
+- Scan partiel du profil, sauvegarde/restauration ; valeurs inconnues affichées « Non lu ».
+- Catalogue de sorts versionné et prudent, sans valeurs inventées.
+
+Partiel / expérimental
+- Inventaire, équipement, reconnaissance exhaustive des sorts et build définitif.
+- Coach combat complet, plein écran multi-configuration et mode téléguidé.
+- Assistant de curation de sorts : validation manuelle requise.
+
+Absent
+- Aucun jeu automatique de combat, clic combat automatique, télémétrie ou mise à jour silencieuse.
+
+Sécurité
+Cette bêta n’est pas signée. SmartScreen ou un antivirus peut avertir pour une application nouvelle. Ne contournez pas les protections ; comparez le SHA-256 avant exécution.
