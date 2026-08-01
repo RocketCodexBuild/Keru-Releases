@@ -1,0 +1,32 @@
+KERU 0.4.0 BETA 1 — GUIDE TESTEUR
+
+Merci de tester cette bêta. Keru est un assistant local expérimental pour DOFUS :
+- il analyse localement l’écran ;
+- il n’envoie aucune télémétrie ;
+- les captures ne sont conservées que si vous activez explicitement le diagnostic ;
+- le mode téléguidé est désactivé par défaut ;
+- Keru ne joue pas les combats et ne modifie pas votre inventaire.
+
+Installation
+1. Vérifiez le hash SHA-256 dans SHA256SUMS.txt.
+2. Lancez Keru-0.4.0-beta1-Setup.exe. Le raccourci Bureau est optionnel.
+3. Si Windows SmartScreen avertit, ne contournez rien : vérifiez d’abord le hash et demandez au distributeur.
+4. En secours, extrayez Keru-0.4.0-beta1-portable.zip puis lancez Keru\Keru.exe.
+
+Premier démarrage
+1. Lisez l’avertissement bêta.
+2. Vérifiez F8 et F10 ; laissez le diagnostic désactivé sauf pour investiguer un problème.
+3. Cliquez « Tester la détection de Dofus » : notez version, résolution, DPI, mode et méthode de capture.
+
+Parcours de test
+1. Installation et lancement ; taille de fenêtre, logo et raccourcis.
+2. Dofus détecté, puis F8 et F10.
+3. Capture non noire et lecture des quêtes.
+4. Scan du personnage, sauvegarde du profil et restauration après redémarrage.
+5. Dofus en fenêtre, maximisé et plein écran fenêtré si disponible.
+6. Lisibilité, lenteurs, erreurs et crashs.
+
+Retour
+Utilisez « Exporter un rapport de test ». Sans la case « Inclure les captures de diagnostic », le ZIP contient seulement métadonnées techniques anonymisées, logs et diagnostics texte. Il ne contient ni nom de personnage, ni inventaire, ni profil détaillé.
+
+Merci d’indiquer : Windows, résolution, mise à l’échelle, version de Dofus, classe/niveau, détection Dofus, valeurs lues, étape en échec, clarté de l’interface, ralentissements et éventuels avertissements antivirus/SmartScreen.
